@@ -10,5 +10,3 @@ function game_loop() {
 };
 
 game_loop();
-
-conosle.log("Hello, World");
